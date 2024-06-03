@@ -28,9 +28,8 @@ psycopg2-binary = "^2.9.9"
 asyncpg = "^0.29.0"
 databases = "^0.8.0"
 pymupdf = "^1.23.8"
+scipy = "^1.13.1"
 
-
-[tool.poetry.group.dev.dependencies]
 flake8 = "^6.1.0"
 flake8-bugbear = "^23.9.16"
 black = "^23.9.1"
